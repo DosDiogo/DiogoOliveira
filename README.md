@@ -37,10 +37,9 @@ Sou um desenvolvedor focado em criar aplicações web robustas, escaláveis e ef
 
 ## 📈 Estatísticas do GitHub
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO-DO-GITHUB]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO-DO-GITHUB]&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
+![Estatísticas do GitHub](https://github-readme-stats-one.vercel.app/api?username=DosDiogo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Linguagens mais usadas](https://github-readme-stats-one.vercel.app/api/top-langs/?username=DosDiogo&layout=compact&langs_count=7&theme=tokyonight)
 
 ---
 
