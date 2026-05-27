@@ -1,11 +1,6 @@
 # Olá, eu sou o Diogo Oliveira! 👋
 
-### Full-Stack Web Developer | Especialista em MERN Stack
-
-Sou um desenvolvedor focado em criar aplicações web robustas, escaláveis e eficientes. Tenho forte interesse em **arquitetura de software**, prezando pela separação clara de conceitos (clean code, separação de lógica de apresentação e backend) e pela criação de APIs RESTful seguras e bem estruturadas.
-
----
-
+### Full-Stack Web Developer | MERN Stack
 ## 🛠️ Tecnologias e Ferramentas
 
 ### Frontend
